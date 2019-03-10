@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+torchvision
+opencv-python
+vizdoom
+gym
+matplotlib
+sklearn
+tensorboard
